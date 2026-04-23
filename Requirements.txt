@@ -1,0 +1,31 @@
+Final Project: Object-Oriented Programming (Individual)
+Objective: Create a console-based application in Java to model a real-world appliance, showcasing object-oriented programming (OOP) and multithreading.
+Project Requirements:
+1.  Appliance Selection: Choose one appliance from:
+	•  Electric Appliances (e.g., heater, fan)
+	•  Electronic Appliances (e.g., thermostat, clock)
+	•  Mechanical Appliances (e.g., bicycle, hand mixer)
+2.  OOP Concepts:
+	•  Composition: Model the appliance with parts in a “has-a” relationship (e.g., blender has blades).
+	•  Aggregation: Include a part that can exist independently (e.g., removable battery).
+	•  Inheritance: Use a base class (e.g., Appliance) and a derived class (e.g., Blender).
+	•  Polymorphism: Implement a method (e.g., operate()) overridden in derived classes.
+	•  Encapsulation: Use private attributes with public getters/setters for two attributes.
+3.  Threading:
+	•  Use at least two threads for concurrent tasks (e.g., one for operation, one for monitoring).
+	•  Ensure thread synchronization (e.g., using locks).
+4.  Functionality:
+	•  Support basic operations (e.g., turn on/off, show status) via console.
+	•  Add one unique feature for the appliance (e.g., fan speed control).
+	•  Log operations (e.g., start/stop, errors) to a text file.
+Deliverables:
+•  Source Code: Commented code implementing the appliance.
+•  Documentation: A 2–3 page report explaining:
+	•  Chosen appliance and features.
+	•  Implementation of OOP, threading, and logging.
+	•  Challenges and solutions.
+Submission:
+•  Submit code and documentation by 9th of May.
+
+
+
