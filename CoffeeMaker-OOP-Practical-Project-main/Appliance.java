@@ -1,5 +1,5 @@
-/*
- * Main (Parent) Appliance class.
+/* 
+ *  Main (Parent) Appliance class.
  */
 public class Appliance {
 
